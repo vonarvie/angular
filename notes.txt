@@ -1,0 +1,9 @@
+https://github.com/venerguevarra/typescript-workshop/tree/master/FirstProject
+
+react - ecmascript
+angular - typescript (superscript of ecmascript). strongly typed.
+
+gitignore.io
+node_modules
+
+transpyling -- converting typescript to javascript
