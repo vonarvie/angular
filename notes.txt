@@ -38,5 +38,19 @@ json server site
 
 node express --> api
 node loopback --> loopback.io (IBM)
+
+npm run build-local
+node index.js
+ng buid --configuration=local
+
+NativeScript.org -- supported by Angular.
+==> mobile
+
+check flutter.dev (google)
 hapijs
 "php on steroid"
+
+vener.guevarra@gmail.com
+
+install nodeJs
+angular cli
