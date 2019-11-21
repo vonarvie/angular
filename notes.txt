@@ -7,3 +7,36 @@ gitignore.io
 node_modules
 
 transpyling -- converting typescript to javascript
+
+supports live reloading
+
+Download dependencies
+npm install
+
+Generate component:
+ng g c hello
+
+List files:
+ls -l
+
+Remove files:
+rm -rf my-dream-app
+
+Override port
+ng serve -o --port 8080
+
+avataaars.io
+
+https://github.com/venerguevarra/angular-httpclient-rest-demo
+https://github.com/venerguevarra/angular-environment-demo
+
+sudo npm install -g json-server
+json-server --watch server/db.json
+
+json server site
+
+
+node express --> api
+node loopback --> loopback.io (IBM)
+hapijs
+"php on steroid"
